@@ -28,7 +28,7 @@ curl -sO https://raw.githubusercontent.com/Rambeboy/Hemi-Network/refs/heads/main
 
 2. [Check here if your Bitcoin has arrived](https://mempool.space/testnet/address/$PUBKEY_HASH)
 
-After completing the tasks above prss Enter and start miner.
+After completing the tasks above press Enter and start miner.
 ![Screenshot_20241113_025642_Termux](https://github.com/user-attachments/assets/15ff2007-3bc0-42bb-a56c-5c414acd66b5)
 
 
