@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Node Mafia ASCII Art
+# Rambeboy ASCII Art
 echo "
 
 ██████╗  █████╗ ███╗   ███╗██████╗ ███████╗██████╗  ██████╗ ██╗   ██╗
