@@ -24,9 +24,9 @@ Our installers can be used for quick installation or update node. To get started
 curl -sO https://raw.githubusercontent.com/Rambeboy/Hemi-Network/refs/heads/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 
-1. Join the Hemi Discord https://discord.gg/hemixyz and request tBTC in the faucet channel with the command /tbtc-faucet to the wallet at this address: $PUBKEY_HASH
+1. [Join the Hemi Discord](https://discord.gg/hemixyz) and request tBTC in the faucet channel with the command /tbtc-faucet to the wallet at this address: $PUBKEY_HASH
 
-2. Check here if your Bitcoin has arrived: https://mempool.space/testnet/address/$PUBKEY_HASH
+2. [Check here if your Bitcoin has arrived](https://mempool.space/testnet/address/$PUBKEY_HASH)
 
 After completing the tasks above prss Enter and start miner.
 ![image](https://github.com/user-attachments/assets/c752a259-9bdc-4fc2-a440-2a9352f6a782)
