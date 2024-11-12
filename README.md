@@ -34,7 +34,7 @@ After completing the tasks above press Enter and start miner.
 
 ---
 
-## You Can Manually Start a Node:
+## You Can Manually Start Node:
 
 Create directory and navigate into it
 ```
