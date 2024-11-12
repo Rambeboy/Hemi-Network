@@ -5,7 +5,7 @@
 ## Hemi Network — is a modular Layer 2 protocol aimed at scaling, security and interoperability of Bitcoin and Ethereum networks. It represents a new approach to L2 scaling by treating Bitcoin and Ethereum as components of a supernetwork. Hemi Network connects to the Bitcoin and Ethereum networks, enabling asset portability between them to create a third-party crosschain ecosystem. To create this highly secure ecosystem, Hemi Network uses several types of decentralised nodes: Bitcoin finalisation managers, secure Bitcoin sequencers, Proof-of-Proof (PoP) miners and a modified Geth node.
 $15,000,000 investment from Binance Labs, Alchemy,Quantstamp, etc. Node requirements are 2CPU/4RAM/50SSD
 
-To fully participate in the Hemi Testnet we need to log in to https://points.absinthe.network/hemi/start and enter <refcode> 7a924a9e. On the site, you can perform various activities and get points to compete on the leaderboard. You can also connect Discord and tweet.![image](https://github.com/user-attachments/assets/aa5aa8e9-ab69-420f-ae61-eba69a5e7c46)
+To fully participate in the Hemi Testnet we need to [Login](https://points.absinthe.network/hemi/start) On the site, you can perform various activities and get points to compete on the leaderboard. You can also connect Discord and tweet.![image](https://github.com/user-attachments/assets/aa5aa8e9-ab69-420f-ae61-eba69a5e7c46)
 
 ---
 
