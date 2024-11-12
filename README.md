@@ -34,7 +34,7 @@ After completing the tasks above prss Enter and start miner.
 
 ---
 
-## You Can Also Manually Start a Node:
+## You Can Manually Start a Node:
 
 Create directory and navigate into it
 ```
